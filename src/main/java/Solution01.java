@@ -11,7 +11,6 @@ public class Solution01 {
         concatenate 'userName' into 'hello'
             'hello' = Hello, 'userName', nice to meet you!
         print: 'hello'
-
     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
